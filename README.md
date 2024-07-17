@@ -1,6 +1,6 @@
 
 
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
  <img align="center" src="./images/header.png" width="100%">    
 </a>
 <p align="center">
@@ -10,12 +10,12 @@
 
 
 <br/>
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
 <p align="center">
  
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Walid+BOUSSOU;Specialized+Master's+Student+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python; ; " alt="Typing SVG" />
 </a>
 
@@ -28,11 +28,11 @@
 <!--Intro-->
 
  
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/walidbosso"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=walidbosso&style=for-the-badge&color=blue"></a>
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/tylerstevense"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/tylerstevense"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=tylerstevense&style=for-the-badge&color=blue"></a>
 
 
 
-<a href="https://github.com/walidbosso">   
+<a href="https://github.com/tylerstevense">   
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
 </a>
 
@@ -52,12 +52,12 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/walidbosso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="http://walidbosso.byethost12.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
-  <a href="mailto:walidbosso24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tylerstevense" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="http://tylerstevense.byethost12.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+  <a href="mailto:tylerstevense24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <!--   <a href="https://api.whatsapp.com/send?phone=+212658930956&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a> -->
-  <a href="https://t.me/walidbosso" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
-  <a href="http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+  <a href="https://t.me/tylerstevense" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
+  <a href="http://tylerstevense.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
  
 </p>
 
@@ -66,23 +66,23 @@
 
 <!--Skills-->
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/tylerstevense">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
  
 
 <h3 align="center">
- <a href="https://github.com/walidbosso">
+ <a href="https://github.com/tylerstevense">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
  
- <a href="https://github.com/walidbosso">
+ <a href="https://github.com/tylerstevense">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
  【﻿Ｓｋｉｌｌｓ】  
 </h3>
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/tylerstevense">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
@@ -131,15 +131,15 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/walidbosso/details/certifications" title="💻 My Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
-<a href="https://www.linkedin.com/in/walidbosso/details/education" title="🎓 Master's in Computer Science Engineering, University Abdelmalek Essaâd"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
+<a href="https://www.linkedin.com/in/tylerstevense/details/certifications" title="💻 My Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
+<a href="https://www.linkedin.com/in/tylerstevense/details/education" title="🎓 Master's in Computer Science Engineering, University Abdelmalek Essaâd"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
  
 </p>
 </div>
 
 
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/tylerstevense">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
@@ -149,15 +149,15 @@
 
 
 <h3 align="center">
- <a href="https://github.com/walidbosso">
+ <a href="https://github.com/tylerstevense">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/walidbosso">
+    </a> <a href="https://github.com/tylerstevense">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> 【﻿Ｓｔａｔｓ】 
 
 </h3>
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/tylerstevense">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
  
@@ -166,19 +166,19 @@
 
 <p align="center">
  <br/>
-<a href="https://github.com/walidbosso"><img align="center" width ="%" src="https://img.shields.io/github/followers/walidbosso?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+<a href="https://github.com/tylerstevense"><img align="center" width ="%" src="https://img.shields.io/github/followers/tylerstevense?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
 
 
 
 <p align="center"> 
-<a href="https://user-badge.committers.top/morocco/walidbosso"> 
-<!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
+<a href="https://user-badge.committers.top/morocco/tylerstevense"> 
+<!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/tylerstevense?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
 </a></p >
 
  <p align="center">
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/tylerstevense">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerstevense&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
 
 </a>
 
@@ -196,27 +196,27 @@
   <br>
  
 <p align="center">
-<a href="https://github.com/walidbosso"> 
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+<a href="https://github.com/tylerstevense"> 
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftylerstevense%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
 </a></p>
 
 <p align="center">
 <div align="center">
- <a href="https://github.com/walidbosso"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia" width="100%" /> </br></br>
+ <a href="https://github.com/tylerstevense"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tylerstevense&theme=algolia" width="100%" /> </br></br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidbosso&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tylerstevense&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tylerstevense&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tylerstevense&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
   
- [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso) </br></br>
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=walidbosso&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/walidbosso) </br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=walidbosso&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/walidbosso) 
+ [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=tylerstevense&theme=algolia&card_width=1000)](https://github.com/tylerstevense) </br></br>
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tylerstevense&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/tylerstevense) </br>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=tylerstevense&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/tylerstevense) 
 </div>
 
 
@@ -224,7 +224,7 @@
 <a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
  
 
-<!--  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">    
+<!--  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftylerstevense%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">    
  <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">     -->
 </a><br/><br/>
  <div align="center">
@@ -236,8 +236,8 @@
 
 
 <p align="center">
-<a href="https://github.com/walidbosso">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+<a href="https://github.com/tylerstevense">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/tylerstevense/tylerstevense/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
 </a>
 </p>
 
@@ -251,29 +251,29 @@
 
   <p align="center">
 
-[![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management)
-[![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/walidbosso/SpringBoot_Football_Matches)
-[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/walidbosso/Laravel_pharmacy_management)
-[![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts)
-[![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai)
-[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Nodejs_playground\&theme=github_dark)](https://github.com/walidbosso/Nodejs_playground)
-[![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=holi)](https://github.com/walidbosso/walidbosso)
-[![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/walidbosso/CV_BOUSSOU_Walid)
-[![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=algolia)](https://github.com/walidbosso/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
-[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=algolia)](https://github.com/walidbosso/AJAX-XML)
+[![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/tylerstevense/SpringBoot-Angular-TrainingCenter-Management)
+[![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/tylerstevense/SpringBoot_Football_Matches)
+[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/tylerstevense/Laravel_pharmacy_management)
+[![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/tylerstevense/Java-threads-udp-tcp-rmi-charts)
+[![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/tylerstevense/mongdb_express_Movies_api_using_openai)
+[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=Nodejs_playground\&theme=github_dark)](https://github.com/tylerstevense/Nodejs_playground)
+[![tylerstevense Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=tylerstevense\&theme=holi)](https://github.com/tylerstevense/tylerstevense)
+[![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/tylerstevense/CV_BOUSSOU_Walid)
+[![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=algolia)](https://github.com/tylerstevense/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
+[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=AJAX-XML\&theme=algolia)](https://github.com/tylerstevense/AJAX-XML)
 
-[![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso)](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
+[![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=tylerstevense&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=tylerstevense)](https://github.com/tylerstevense?tab=repositories&q=&type=&language=&sort=stargazers)
 
-[![Angular-login Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-login\&theme=algolia)](https://github.com/walidbosso/Angular-login)
-[![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/walidbosso/MERN_Stack_BlogProject)
-[![MATLAB_Image_processing_app Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MATLAB_Image_processing_app\&theme=holi)](https://github.com/walidbosso/MATLAB_Image_processing_app)
-[![Python-GUI Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python-GUI\&theme=holi)](https://github.com/walidbosso/Python-GUI)
-[![Python_People_tracking Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python_tracking\&theme=github_dark)](https://github.com/walidbosso/Python_tracking)
-[![Data_mining Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=R_Data_mining\&theme=github_dark)](https://github.com/walidbosso/R_Data_mining)
-[![C_System_Manipulation Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=C_System_Manipulation\&theme=holi)](https://github.com/walidbosso/C_System_Manipulation)
-[![Selenium-Web-Testing-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Selenium-Web-Testing-Trello\&theme=holi)](https://github.com/walidbosso/Selenium-Web-Testing-Trello)  
-[![Android_Java_Projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Android_Java_Projects\&theme=algolia)](https://github.com/walidbosso/Android_Java_Projects)
-[![React-native-projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=React-native-projects\&theme=algolia)](https://github.com/walidbosso/React-native-projects)
+[![Angular-login Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=Angular-login\&theme=algolia)](https://github.com/tylerstevense/Angular-login)
+[![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/tylerstevense/MERN_Stack_BlogProject)
+[![MATLAB_Image_processing_app Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=MATLAB_Image_processing_app\&theme=holi)](https://github.com/tylerstevense/MATLAB_Image_processing_app)
+[![Python-GUI Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=Python-GUI\&theme=holi)](https://github.com/tylerstevense/Python-GUI)
+[![Python_People_tracking Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=Python_tracking\&theme=github_dark)](https://github.com/tylerstevense/Python_tracking)
+[![Data_mining Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=R_Data_mining\&theme=github_dark)](https://github.com/tylerstevense/R_Data_mining)
+[![C_System_Manipulation Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=C_System_Manipulation\&theme=holi)](https://github.com/tylerstevense/C_System_Manipulation)
+[![Selenium-Web-Testing-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=Selenium-Web-Testing-Trello\&theme=holi)](https://github.com/tylerstevense/Selenium-Web-Testing-Trello)  
+[![Android_Java_Projects Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=Android_Java_Projects\&theme=algolia)](https://github.com/tylerstevense/Android_Java_Projects)
+[![React-native-projects Card](https://github-readme-stats.vercel.app/api/pin?username=tylerstevense\&repo=React-native-projects\&theme=algolia)](https://github.com/tylerstevense/React-native-projects)
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 <br/>
@@ -287,18 +287,18 @@
 <!--SPOTIFY-->
 
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/tylerstevense">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/tylerstevense">
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
  <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
  </a>
-  <a href="https://github.com/walidbosso"> 
+  <a href="https://github.com/tylerstevense"> 
  <img align="left" src="./images/good-times.svg" width="10%">   
 </a>
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
  <img align="right" src="./images/good-times.svg" width="10%">   
 </a>
  <h2 align="center" width="20" >
@@ -306,9 +306,9 @@
 </h2>
 
 
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
 
 <!--spotify CARD-->
@@ -323,7 +323,7 @@ Currently Coding and Listening
 
 
   
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/tylerstevense)
 
   
 
@@ -334,7 +334,7 @@ Currently Coding and Listening
   <br>
 
 
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
   <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
 </a>
   
@@ -343,17 +343,17 @@ Currently Coding and Listening
   <div align="center">
 
 
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
  <img align="center" src="./images/city.gif" width="60%" align="center">   
 </a>
 
  
-[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/tylerstevense)
 
 
 
 <!-- views-->
-  <img align="left" width="0px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
+  <img align="left" width="0px" src="https://visitcount.itsvg.in/api?id=tylerstevense&label=Profile%20Views&color=1&icon=3&pretty=true" />
 
 
 
@@ -370,7 +370,7 @@ Currently Coding and Listening
 </p>
 
 <p align="center">
-<a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px" title="⌚ Front-End"></a><a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px" title="⚙️ Back-End"></a>
+<a href="https://github.com/tylerstevense" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px" title="⌚ Front-End"></a><a href="https://github.com/tylerstevense" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px" title="⚙️ Back-End"></a>
  
 </p>
 
@@ -378,7 +378,7 @@ Currently Coding and Listening
 
 
   
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
  <img align="center" src="./images/citytheme.gif" width="60%" >   
 </a>
 
@@ -393,43 +393,43 @@ Currently Coding and Listening
 
 <br/>
 
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
  <img align="center" src="./images/skills.png" width="100%">   
 </a>
 
 </div>
 
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/tylerstevense">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
  <!--MOON-->
  
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
   <img width="30" align ="left"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/tylerstevense"> 
   <img width="30" align ="right"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
 
 
 <!--THANKS-->
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/tylerstevense"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=tylerstevense&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 
  <p align="center">
-  <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+  <a href="https://github.com/tylerstevense"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
 </p>
 
 
 <!--
-[![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=walidbosso)
+[![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=tylerstevense)
 
-[![GitHub forks](https://img.shields.io/github/forks/walidbosso/MATLAB_Image_processing_app.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/network/)
-[![GitHub watchers](https://img.shields.io/github/watchers/walidbosso/MATLAB_Image_processing_app.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/watchers/)
- <img align="left" src="https://img.shields.io/github/downloads/walidbosso/MATLAB_Image_processing_app/total.svg" width="200">   
+[![GitHub forks](https://img.shields.io/github/forks/tylerstevense/MATLAB_Image_processing_app.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/tylerstevense/MATLAB_Image_processing_app/network/)
+[![GitHub watchers](https://img.shields.io/github/watchers/tylerstevense/MATLAB_Image_processing_app.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/tylerstevense/MATLAB_Image_processing_app/watchers/)
+ <img align="left" src="https://img.shields.io/github/downloads/tylerstevense/MATLAB_Image_processing_app/total.svg" width="200">   
 -->
  <!--
 
