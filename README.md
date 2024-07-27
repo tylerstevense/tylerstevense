@@ -16,7 +16,7 @@
 <p align="center">
  
 <a href="https://github.com/tylerstevense"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Walid+BOUSSOU;Specialized+Master's+Student+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python; ; " alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Tyler+Stevense;Specialized+Master's+Student+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python; ; " alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,6 @@
 
 <!--Intro-->
 
- 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/tylerstevense"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/tylerstevense"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=tylerstevense&style=for-the-badge&color=blue"></a>
 
 
@@ -46,11 +45,7 @@
 
 
 <!--Contact-->
-
 ### Contact me:
-
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tylerstevense" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="http://tylerstevense.byethost12.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
